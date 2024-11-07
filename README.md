@@ -22,3 +22,13 @@ Değil bağlacı:
 ÖR:
 not 0 = 1
 not 1 = 0
+
+NOT: Mantıksal veri herhangi bir tür olarak tanımlanabilir.BUnunla birlikte bos olan her veri türünün mantıksal karşılığı "False" dur. Dolu olan ise "True"
+ÖR:
+0= False
+1= True
+0.5=True 
+()=False
+[]=False
+""=False
+{}=False
